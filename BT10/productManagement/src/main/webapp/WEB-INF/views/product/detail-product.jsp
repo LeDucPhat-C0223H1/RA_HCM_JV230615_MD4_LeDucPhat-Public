@@ -25,7 +25,7 @@
             <div class="d-flex flex-row justify-content-between gap-5" style="background: aqua" >
                 <p><span class="fs-5 fw-bold">Id: </span> ${product.id}</p>
                 <p><span class="fs-5 fw-bold">Name: </span> ${product.name}</p>
-                <p><span class="fs-5 fw-bold">Email: </span> ${product.price}</p>
+                <p><span class="fs-5 fw-bold">Price: </span> ${product.price}</p>
                 <p><span class="fs-5 fw-bold">Phone: </span> ${product.producer}</p>
             </div>
         </div>
